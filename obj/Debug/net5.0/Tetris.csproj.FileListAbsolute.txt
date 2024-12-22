@@ -1,0 +1,5 @@
+C:\Users\qays1\OneDrive\Bureau\Ynov\B2 INFO\C#\Tetris\obj\Debug\net5.0\Tetris.csprojAssemblyReference.cache
+C:\Users\qays1\OneDrive\Bureau\Ynov\B2 INFO\C#\Tetris\obj\Debug\net5.0\Tetris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qays1\OneDrive\Bureau\Ynov\B2 INFO\C#\Tetris\obj\Debug\net5.0\Tetris.AssemblyInfoInputs.cache
+C:\Users\qays1\OneDrive\Bureau\Ynov\B2 INFO\C#\Tetris\obj\Debug\net5.0\Tetris.AssemblyInfo.cs
+C:\Users\qays1\OneDrive\Bureau\Ynov\B2 INFO\C#\Tetris\obj\Debug\net5.0\Tetris.csproj.CoreCompileInputs.cache

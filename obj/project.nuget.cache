@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1JhWJUd59ilnPkwk7RvKNgTAryj8xHZQXzMkMl9FxfiKBc+47z8eQiXBxXkutnUyPGuQn1WZnP4PHTqxrhGd3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\qays1\\OneDrive\\Bureau\\Ynov\\B2 INFO\\C#\\Tetris\\Tetris.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\qays1\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\qays1\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\qays1\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
