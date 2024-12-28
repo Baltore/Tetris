@@ -31,6 +31,7 @@ namespace Tetris.Game
             // Abonne les événements
             scoreManager.OnScoreUpdated += (score) => OnScoreUpdated?.Invoke(score);
             timerManager.OnTimeUpdated += (time) => OnTimeUpdated?.Invoke(time);
+            timerManager.OnThresholdReached += AdjustGameSpeed;
 
             // Initialiser les formes
             currentShape = GenerateRandomShape();
@@ -82,6 +83,11 @@ namespace Tetris.Game
         {
             MoveShapeDown();
             grid.PrintGrid(); // Ajout pour vérifier visuellement les mises à jour de la grille
+        }
+        
+        private void AdjustGameSpeed(int threshold)
+        {
+            gameTimer.Interval = Math.Max(100, gameTimer.Interval - 100); // Réduit l'intervalle
         }
 
         public void MoveShapeLeft()
