@@ -32,14 +32,6 @@ namespace Tetris.Game
             }
         }
 
-        // Vérifie si une cellule est vide
-        public bool IsCellEmpty(int row, int column)
-        {
-            if (row < 0 || row >= Rows || column < 0 || column >= Columns)
-                return false; // Hors limites
-            return Cells[row, column] == 0;
-        }
-
         // Vérifie si une forme peut être déplacée
         public bool CanMove(Shape shape, int newRow, int newColumn)
         {
