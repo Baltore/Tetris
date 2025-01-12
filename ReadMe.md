@@ -29,8 +29,8 @@ Ce projet est une implémentation classique du jeu Tetris, développée en C# av
     - GameUI.cs            # Affichage de L'interface du jeu
     - MainMenu.cs          # Affichage du menu d'acceuil
     - OptionMenu.cs        # Affichage du menu option
-- Program.cs               # Point d'entrée principal
-- README.md                # Documentation du projet
+  - Program.cs               # Point d'entrée principal
+  - README.md                # Documentation du projet
 
 
 ## 🔧 Prérequis
