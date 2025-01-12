@@ -4,7 +4,6 @@
 
 Ce projet est une implémentation classique du jeu Tetris, développée en C# avec WinForms. Il propose une expérience de jeu rétro fidèle à l'original, enrichie de fonctionnalités modernes telles que l'ajustement dynamique de la vitesse, le suivi du score et du temps, ainsi qu'une interface utilisateur personnalisée.
 
----
 
 ## ✨ Fonctionnalités
 
@@ -14,7 +13,6 @@ Ce projet est une implémentation classique du jeu Tetris, développée en C# av
 - 🛠️ Personnalisation de la vitesse : Configurez la vitesse initiale via le menu des options.
 - 💻 Interface utilisateur simple : Conçu avec WinForms pour une expérience fluide et intuitive.
 
----
 
 ## 🗂️ Structure du projet
 
@@ -34,7 +32,6 @@ Ce projet est une implémentation classique du jeu Tetris, développée en C# av
 - Program.cs               # Point d'entrée principal
 - README.md                # Documentation du projet
 
----
 
 ## 🔧 Prérequis
 
@@ -42,14 +39,13 @@ Ce projet est une implémentation classique du jeu Tetris, développée en C# av
 - Langage : C# (Framework .NET 5.0 ou supérieur recommandé)
 - IDE : Visual Studio ou Visual Studio Code avec le SDK .NET installé
 
----
 
 ## 🚀 Installation
 
 1. Clonez le dépôt :
   ```bash
-  git clone https://github.com/votre-nom/tetris-game.git
-  cd tetris-game
+  git clone https://https://github.com/Baltore/Tetris.git
+  cd Tetris
   ```
 2. Configurez le projet :
   Assurez-vous d'avoir installé le SDK .NET 5.0 ou une version supérieure.
@@ -59,7 +55,6 @@ Ce projet est une implémentation classique du jeu Tetris, développée en C# av
   Ouvrez le projet dans Visual Studio ou VS Code.
   Compilez et exécutez l'application.
 
----
 
 ## 🕹️ Contrôles du jeu
 
@@ -68,7 +63,6 @@ Ce projet est une implémentation classique du jeu Tetris, développée en C# av
 - Flèche haut : Faire pivoter la pièce
 - Flèche bas : Accélérer la descente
 
----
 
 ## 📊 Fonctionnalités avancées
 
@@ -81,7 +75,6 @@ Ce projet est une implémentation classique du jeu Tetris, développée en C# av
 - Grille et formes dynamiques :
   Le système prend en charge les formes standard de Tetris (I, O, T, L, Z, et leurs variantes inversées).
 
----
 
 ## 👤 Auteurs
 
