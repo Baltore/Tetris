@@ -1,4 +1,5 @@
 📖 Description
+
 Ce projet est une implémentation classique du jeu Tetris, développée en C# avec WinForms. Il propose une expérience de jeu rétro fidèle à l'original, enrichie de fonctionnalités modernes telles que l'ajustement dynamique de la vitesse, le suivi du score et du temps, ainsi qu'une interface utilisateur personnalisée.
 
 ✨ Fonctionnalités
